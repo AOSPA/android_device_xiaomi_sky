@@ -1388,7 +1388,6 @@ vendor/etc/init/hw/init.qcom.usb.rc
 
 # Wi-Fi
 vendor/bin/cnss-daemon
-vendor/etc/wifi/adrastea/WCNSS_qcom_cfg.ini
 vendor/etc/init/init.vendor.wlan.rc
 
 # Wi-Fi Display
